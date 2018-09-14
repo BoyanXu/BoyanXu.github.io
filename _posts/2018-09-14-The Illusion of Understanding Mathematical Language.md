@@ -4,7 +4,7 @@ title:      The Illusion of Understanding Mathematical Language
 subtitle:   Inspecting the hybrid of natural language and mathematical language
 date:       2018-09-14
 author:     Boyan
-header-img: img/post-bg-cook.jpg
+header-img: img/post-bg-math.jpg
 catalog: true
 tags:
     - meditation
