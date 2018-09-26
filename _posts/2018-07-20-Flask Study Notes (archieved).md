@@ -1,5 +1,17 @@
-# Lecture2: Dynamic Web Programming with Python
-#web编程
+---
+layout:     post
+title:      Flask
+subtitle:   
+date:       2018-07-20
+author:     Boyan
+header-img: img/post-bg-math.jpg
+catalog: true
+tags:
+    - web编程
+---
+
+# Flask
+
 ## Flask Framework
 1. Set up
 ```
