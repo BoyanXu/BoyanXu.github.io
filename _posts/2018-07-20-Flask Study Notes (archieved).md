@@ -29,12 +29,7 @@ Then you can bind functions to a specific url.
 3. `@app.route(“/<string:name>”)`
 The input url will serve as variable `name`, for later operations.
 Then we created a dynamic website.
-4. `render_template(“Index.html”)` 
-Render a html file, immediately in the director `template`
-`render_template(“index.html, VARIABLE_NAME”)`
-Within the html template, use`{{VARIABLE_NAME}}` to create a holder for variable to be passed in.
-Within the @route{} function, call 
-`render_template(“index.html, VARIABLE_NAME”)` to pass variable to the html template.
+
 5. Is it Christmas? （Conditional Statement）
 http://isitchristmas is an example of dynamically generating webpage content, based on different conditions.
 In the application.py, simply add if-statement to the `@route(“/”)function`, and return different variable to the template, by
