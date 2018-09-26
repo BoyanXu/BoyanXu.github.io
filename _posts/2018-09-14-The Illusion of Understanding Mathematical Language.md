@@ -23,6 +23,7 @@ So since the point of reading mathematical descriptions is intentionally decodin
 Here are the two steps that I think is cruicial for decoding mathematical language.
 
 ## Preparation Step: Making mathematical symbols easier to read
+
 To make mathematical symbols easier to read, i.e. to gain the mathematical literacy. When we study mathematics, we always first manage to understand basic concepts, and then receive a lot of traing of synthesizing those concepts. This step helps us configure “the mathematical contexts” in our mind over a mathematical description in a more rapid, 
 and accurate thinking pattern.
 
