@@ -1,7 +1,15 @@
 ---
-title: Seek Equilibrium between Commerciality & Functionality
-
+layout:     post
+title:      Seek Equilibrium between Commerciality & Functionality
+subtitle:   Inspecting the hybrid of natural language and mathematical language
+date:       2019-06-29
+author:     Boyan
+header-img: img/post-bg-math.jpg
+catalog: true
+tags:
+    - meditation
 ---
+
 ## Seek Equilibrium between **Commerciality & Functionality**
 
 When I just got start with programming, I frequently felt frustrated with softwares specially designed for programmers, like git, ssh, or in a more general sense, python, Flask, and pristine Linux. At that time, because I hadn't distinguish the programmer-oriented software with the customer-oriented software, my methodology approaching those softwares is both dumb and awkward - simply by searching the corresponding commands and code snippets summarized by some random websites or blogs, then copying and tuning those uninterpretable codes constantly until they seem to function as my expectation. However, even though I could produce functional software eventually after going through an recursive and inefficient trial-and-error procedure, I always found that I could barely remember anything several weeks later after accomplishment.
