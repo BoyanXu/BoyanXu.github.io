@@ -1,0 +1,28 @@
+---
+label: template
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: text
+  name: subtitle
+  label: subtitle
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: author
+  label: author
+- type: file
+  name: header-img
+  label: header-img
+- type: boolean
+  name: catalog
+  label: catalog
+- type: list
+  name: tags
+  label: tags
