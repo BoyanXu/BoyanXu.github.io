@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Seek Equilibrium between Commerciality & Functionality
-subtitle:   What kind of elegance should programmer worship
+subtitle:   What sort of elegance should programmer worship
 date:       2019-06-29
 author:     Boyan
 header-img: img/post-bg-math.jpg
