@@ -3,8 +3,8 @@ title: Boyan's Blog
 SEOTitle: Boyan的博客 | Boyan Blog
 header-img: img/post-bg-desk.jpg      #显示在首页的背景图片
 email: bx376@nyu.edu
-description: "What, can I help"
-keyword: "NYU Shanghai, Software Engineering, Data Science, AI" #关键词
+description: "What can I help"
+keyword: "NYU Shanghai, Software Engineering" #关键词
 url: "https://boyanxu.github.io"          # your host, for absolute URL # 这个就是填写你的博客地址
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'  
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository 
