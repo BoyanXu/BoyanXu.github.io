@@ -3,7 +3,7 @@ title: Boyan's Blog
 SEOTitle: Boyan的博客 | Boyan Blog
 header-img: img/post-bg-desk.jpg      #显示在首页的背景图片
 email: bx376@nyu.edu
-description: "We don't know what we don't know."
+description: "What, can I help"
 keyword: "NYU Shanghai, Software Engineering, Data Science, AI" #关键词
 url: "https://boyanxu.github.io"          # your host, for absolute URL # 这个就是填写你的博客地址
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'  
@@ -11,11 +11,8 @@ github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Hi,我是Boyan，现就读于上海纽约大学(NYU Shanghai)，主修计算机科学。"
+sidebar-about-description: "Hi,我是Boyan，现就读于上海纽约大学(NYU Shanghai)，主修计算机科学（和吉他）。"
 
-                            #不通乐理的古典乐爱好者，不会绘画的平面设计控。
-
-                            #Nintendo Switch核心玩家，业余开发者
 sidebar-avatar: /img/about-Boyan-Avatar.jpeg      # 你的个人头像 # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
