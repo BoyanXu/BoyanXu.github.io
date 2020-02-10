@@ -3,9 +3,7 @@ title: Boyan's Blog
 SEOTitle: Boyan的博客 | Boyan's Blog
 header-img: img/post-bg-desk.jpg      #显示在首页的背景图片
 email: bx376@nyu.edu
-description: "main(k){float i,j,r,x,y=-16;while(puts(""),y++<15)for(x
-=0;x++<84;putchar(" .:-;!/>)|&IH%*#"[k&15]))for(i=k=r=0;
-j=r*r-i*i-2+x/25,i=2*r*i+y/10,j*j+i*i<11&&k++<111;r=j);}"
+description: "main(k){float i,j,r,x,y=-16;while(puts(""),y++<15)for(x=0;x++<84;putchar(" .:-;!/>)|&IH%*#"[k&15]))for(i=k=r=0;j=r*r-i*i-2+x/25,i=2*r*i+y/10,j*j+i*i<11&&k++<111;r=j);}"
 keyword: "NYU Shanghai, Software Engineering" #关键词
 url: "https://boyanxu.github.io"          # your host, for absolute URL # 这个就是填写你的博客地址
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'  
@@ -68,8 +66,8 @@ gitalk:
   clientID: 8cd9382c59bd8d19981d                            #生成的clientID
   clientSecret: 4dfb8f46bc2c45ea2e45fe13b3326cc1a898cb47    #生成的clientSecret
   repo: BoyanXu.github.io    #仓库名称
-  owner: BoyanXu    #github用户名
-  admin: ['BoyanXu']
+  owner: Boyan Xu    #github用户名
+  admin: ['Boyan Xu']
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
