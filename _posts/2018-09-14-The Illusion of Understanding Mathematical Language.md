@@ -4,7 +4,7 @@ title: Interpreting the Language of Math
 subtitle: Interpreting the Language of Math
 date: 2018-09-14
 author: Boyan
-header-img: img/post-bg-math.jpg
+header-img: img/interpret-language-of-math.jpeg
 catalog: true
 tags:
 - meditation
