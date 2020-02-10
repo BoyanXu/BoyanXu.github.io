@@ -11,7 +11,7 @@ github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Hi,我是Boyan，现就读于上海纽约大学(NYU Shanghai)，主修计算机科学（和吉他）。"
+sidebar-about-description: "Hi,我是Boyan，现就读于上海纽约大学(NYU Shanghai)，主修计算机科学，吉他和玄学。"
 
 sidebar-avatar: /img/about-Boyan-Avatar.jpeg      # 你的个人头像 # use absolute URL, seeing it's used in both `/` and `/about/`
 
