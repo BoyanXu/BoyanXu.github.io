@@ -1,45 +1,25 @@
 ---
-layout:     post
-title:      The Illusion of Understanding Mathematical Language
-subtitle:   Inspecting the hybrid of natural language and mathematical language
-date:       2018-09-14
-author:     Boyan
+layout: post
+title: Interpreting the Language of Math
+subtitle: Interpreting the Language of Math
+date: 2018-09-14
+author: Boyan
 header-img: img/post-bg-math.jpg
 catalog: true
 tags:
-    - meditation
+- meditation
+
 ---
-## Introduction
-When we read mathematical description of an argument, theorem, or a question, what our intuitive mental reaction to those MATH LANGUAGE will be treating them as natural language, and use our brains’ decoding system for natural language to understand those seemingly natural language.
+When I was exposed to mathmatical texts as a kid, everytime when I read mathematical description which is full of weird notations, abstruse theorems, and abstract symbols, my intuitive interpretation to those math language was based on their interior logic and sense as natural language, instead of as abstractions.
 
-But the question is, even when we surely understand the language of the mathematical description we read about, we may still utterly know nothing about the mathematical facts, or situation there.
+Until recently, I realize this terrible habit, fostered under mistaken guidance during childhood, doesn't naturally vanish with exposure to a more formally organized system of language of math. I'm still not used to put those notations, theorems, and symbols in their “mathematical contexts” (the set of directly related abstractions) to interpret, while my imagination was so tightly constrainted by the vocabulary, grammer and coherence that adhere those abstractions to a verbally intelligible piece of description. 
 
-For example, we understand what’s “vector” and what’s “linearly independent”, but when they show up in a mathematical description, let’s say, “there exist v1, v2, v3 which are linearly independent such that w1 = v1 + v2, w2 = v2 + v3, w3 = v3 + v1”, you may use your mental power as a barbaric chimpanzee, only caring about how they looks like, pronounces like, or a little bit advanced, caring about how they can be translated into formal but abstract expression in mathematical, while automatically forget to give a try to “understand” the truly meaning beneath the hybridized language, for example “what objects are v1, v2, v3, w1, w2, w3?”, “what other properties can be inferred from the L.I. family of vectors v1, v2, v3?”
+I found such harmful interpretion of the language of math leads to a slaggish, opaque thinking pattern for me. As the function that map the space of linguistic abstraction to the space of mathematical abstraction itself is impossible to explicitly define, the result of my interpretation through a flawed mapping is unpredictable. The status of my interpretation for certain description is same as the status of Schrödinger's cat, both sensical and nonsensical, so that rough and unreliable to use as brick to construct greater abstractions.
 
-The ignorance may be so naturally that someone might never realize that the only reason that leads to his failure in learning 10 years’ mathematic is that he have never even “understand” a single piece of mathematics.
+Interpreting the langauge of math in a mathematical way is also difficult to articulate with the flawed mapping mentioned. So maybe instead of a rational explanation, a perceptual one makes more sense. 
 
-So since the point of reading mathematical descriptions is intentionally decoding them in a mathematical way, rather than in a lazy, and natural way, then how should we decode the mathematical description in a “right” way?
+Meditation on the interpretation of math by computer, applied to solve real mathematical problems, might be a good start. 
 
-Here are the two steps that I think is cruicial for decoding mathematical language.
+With the idea of Object-Oriented-Programming(OOP), a self-consistent system of math is an"[class](https://www.wikiwand.com/en/Class_(computer_programming))" with unambiguously defined "[attributes](https://www.wikiwand.com/en/Attribute_(computing))"(meta-data) and "[methods](https://www.wikiwand.com/en/Method_(computer_programming))"(opetations); a math problem solvable by computer is then an "[object](https://www.wikiwand.com/en/Object_(computer_science))" derived from that "[class](https://www.wikiwand.com/en/Class_(computer_programming))" with specified values of those "[attributes](https://www.wikiwand.com/en/Attribute_(computing))," and there exists a solution in form of program which is a series of operations referencing or modifying"[attributes](https://www.wikiwand.com/en/Attribute_(computing))" through some of the "[methods](https://www.wikiwand.com/en/Method_(computer_programming))" defined. 
 
-## Preparation Step: Making mathematical symbols easier to read
-
-To make mathematical symbols easier to read, i.e. to gain the mathematical literacy. When we study mathematics, we always first manage to understand basic concepts, and then receive a lot of traing of synthesizing those concepts. This step helps us configure “the mathematical contexts” in our mind over a mathematical description in a more rapid, 
-and accurate thinking pattern.
-
-## Key Step: Actively imagining.(Configuring contexts in your mind)
-I would like to take the idea of Object-Oriented-Programming(OOP) for example, only for the sake of comprehending.
-
-Human brain works in a comprenhensively different way when compared to the modern computer at the hardware level, but it will be beneficial for us to meditate on the nuance between how humans and programs solve a mathematical problem. When human arbitrarily store the mathematical objects’ details somewhere in your brain by intuition, and build connections between those details with the help of the axeons of nureons, an OOP programme store all the attributes and possible mathematical operations that a mathematical object may have somewhere at the memory consecutively. When a programme want to solve a strictly defined mathematical problem, all the “context” of that problem should be declared unambiguously. Analogizing to the programme’s way of declaring all aspects of the mathematical context precisely, human trying to map the mathematical details to the arbitrarily stored knowledge and imagine the mathematical model in their mind.
-
-This is exactly what I mentioned in the previous sample of mathematical description as “understanding mathematics.” When you treating a piece of mathematical description as natural language, you may have the ability to articulate the definition of every mathematical concept that description touches, but we say that “you don’t understand the mathematical facts, or situation here.” Why? Cause if your don’t map your comprehension of those concepts to their exact instance within the description for yourself, no one will do it for you. You may understand the general sense of the enormous mathematical background or vague connections between your knowledges, but you will never understand the details of the mathematical facts here, how those mathematical details subtlely interact with each other in a nuanced manner. Finally, you cannot build the image of the mathematical model described by the mathematical language, not to mention knowing how to creatively operate on that mathematical model, and exerting rigourous inference.
-
-Actively imaging during the reading processes of mathematical description can be far more laborious than our intuitive perception, whereas it well worth the labor cause it brought irreplaceable convenience for creatively mathematical thinking as I will explain 
-in the following.
-
-## Bravely speculating. (Randomly legal operations)
-
-The only reason that free human from being the slave of computer within the realm of mathematics may be that we think creatively
-..........
-## Rigorously inferring
-. ........
+In my view, the most entrenched discrepancy between computer and human's interpretation of language of math is that: computer constructs self-consistency through data and operations, while human constructs through creativity, but the idea is the same: "construct self-consistency." The shape of self-consistency for the same thing is various amoung different people constructed through different text, like the concept of "vector" is abstructed differently by mathmaticians, physicians, and computer scientists. Therefore I would say, interpreting the langauge of math in a mathematical way, is the same with constructing self-consistency through text in your own way.
