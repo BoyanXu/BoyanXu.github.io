@@ -63,8 +63,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: '3436e09f954e7686fd5b'                            #生成的clientID
-  clientSecret: 'd24c63428a22bdebc295ea6d1f18159a4ec9c3ab'    #生成的clientSecret
+  clientID: '8cd9382c59bd8d19981d'                            #生成的clientID
+  clientSecret: '4dfb8f46bc2c45ea2e45fe13b3326cc1a898cb47'    #生成的clientSecret
   repo: BoyanXu.github.io'    #仓库名称
   owner: 'Boyan Xu'    #github用户名
   admin: ['Boyan Xu']
@@ -79,7 +79,7 @@ ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
 ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_domain: boyan-nyu.com               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
