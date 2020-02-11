@@ -65,7 +65,7 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: '3436e09f954e7686fd5b'                            #生成的clientID
   clientSecret: 'd24c63428a22bdebc295ea6d1f18159a4ec9c3ab'    #生成的clientSecret
-  repo: gittalk_comments    #仓库名称
+  repo: BoyanXu.github.io'    #仓库名称
   owner: 'Boyan Xu'    #github用户名
   admin: ['Boyan Xu']
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
