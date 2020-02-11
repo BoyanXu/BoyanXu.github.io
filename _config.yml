@@ -69,7 +69,7 @@ gitalk:
   owner: 'BoyanXu'    #github用户名
   admin: ['BoyanXu']
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
-  id: location.pathname
+  labels: ['Gitalk']
 
 
 # 统计
