@@ -66,10 +66,10 @@ gitalk:
   clientID: '8cd9382c59bd8d19981d'                            #生成的clientID
   clientSecret: '4dfb8f46bc2c45ea2e45fe13b3326cc1a898cb47'    #生成的clientSecret
   repo: 'BoyanXu.github.io'    #仓库名称
-  owner: 'Boyan Xu'    #github用户名
-  admin: ['Boyan Xu']
+  owner: 'BoyanXu'    #github用户名
+  admin: ['BoyanXu']
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
-  id: window.location.pathname
+  id: location.pathname
 
 
 # 统计
