@@ -6,8 +6,8 @@ email: bx376@nyu.edu
 description: ".."
 keyword: "NYU Shanghai, Software Engineering" #关键词
 url: "https://boyanxu.github.io"          # your host, for absolute URL # 这个就是填写你的博客地址
-baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'  
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository 
+baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
+github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -101,6 +101,10 @@ service-worker: true
 
 # Friends
 friends: [
+     {
+         title: "Lương Thế Minh Quang"
+         href: "https://blog.devel.faith/"
+     }
 #    {
 #        title: "WY",
 #        href: "http://zhengwuyang.com"
