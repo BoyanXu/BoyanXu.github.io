@@ -10,11 +10,11 @@ tags:
 - open source
 
 ---
-本篇文章系编写开源软件 Vocabulary Picker 和 Vocabulary Manager 初衷及感想
+> 本篇文章系编写开源软件 Vocabulary Picker 和 Vocabulary Manager 初衷及感想
 
 ![](https://camo.githubusercontent.com/a9b6458801d62b7f440acc4127e7b7f633a93248/68747470733a2f2f692e696d6775722e636f6d2f634c6a4d6d6c332e706e67)
 
-Vocabulary Picker的[下载地址和使用说明](https://github.com/BoyanXu/vocabulary-picker) 
+Vocabulary Picker的[下载地址和使用说明](https://github.com/BoyanXu/vocabulary-picker)
 
 ![](https://camo.githubusercontent.com/d5dc37349764096ebb272df74bfa8239788bd894/68747470733a2f2f692e696d6775722e636f6d2f5756374d456e742e706e67)
 
@@ -22,7 +22,9 @@ Vocabulary Picker的[下载地址和使用说明](https://github.com/BoyanXu/voc
 
 Vocabulary Manager的[下载地址和使用说明](https://github.com/BoyanXu/vocabulary-manager)
 
-介绍视频:
+Youtube介绍视频：
+
+{% include youtubePlayer.html id="zhhA5mQWdlw" %}
 
 作为同二十一世纪的中国一同成长起来的人，在“中国人学习英语”这条路上，我同太多太多人一样，因为缺乏教育，走了太多弯路；因为市场浮躁，听了太多谎言。而如今，当我有了独立思考的能力之后，眼里看到的，却是还是数不尽的弯路跟谎言。
 
@@ -113,3 +115,23 @@ Vocabulary Manager 图标
 有关捐助，特此声明，Vocabulary Picker 和 Vocabulary Manager 永远不会以任何形式接受任何现金捐助。
 
 最后，借助于以这两个开源软件为桥梁连接起来的解放路，我由衷的希望新时代的中国人，能免于成为手上只有一套，出版自商业出版社的汉语教材的约翰；同时也希望较早从这两个开源软件中受益的朋友，能够帮助开源软件传播缺乏资本助力的理想，令更多的人能从中受益。此外，我更加希望志同道合的朋友，愿意肩负民族担当，或者国际主义的责任感，一起努力，逐步实现让国人，乃至世界人民能够完全使用计算机学习英语的理想。
+
+参考资料
+
+\[3\]
+
+Anki 下载页面: [https://apps.ankiweb.net/](https://apps.ankiweb.net/ "https://apps.ankiweb.net/")
+
+\[8\]
+
+Clearly下载页面:
+
+[https://chrome.google.com/webstore/detail/clearly/odfonlkabodgbolnmmkdijkaeggofoop](https://chrome.google.com/webstore/detail/clearly/odfonlkabodgbolnmmkdijkaeggofoop "https://chrome.google.com/webstore/detail/clearly/odfonlkabodgbolnmmkdijkaeggofoop")
+
+\[9\]
+
+Words Discoverer 下载页面: [https://chrome.google.com/webstore/detail/words-discoverer-expand-y/noncaeikjgpbdeoocblijjgegnobogib](https://chrome.google.com/webstore/detail/words-discoverer-expand-y/noncaeikjgpbdeoocblijjgegnobogib "https://chrome.google.com/webstore/detail/words-discoverer-expand-y/noncaeikjgpbdeoocblijjgegnobogib")
+
+\[10\]
+
+GoldenDict 下载页面: [http://goldendict.org/](http://goldendict.org/ "http://goldendict.org/")
