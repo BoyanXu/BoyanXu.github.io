@@ -102,9 +102,9 @@ service-worker: true
 # Friends
 friends: [
      {
-         title: "Lương Thế Minh Quang"
+         title: "Lương Thế Minh Quang",
          href: "https://blog.devel.faith/"
-     }
+     },
 #    {
 #        title: "WY",
 #        href: "http://zhengwuyang.com"
