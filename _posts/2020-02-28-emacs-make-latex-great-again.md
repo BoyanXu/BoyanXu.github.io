@@ -4,7 +4,7 @@ title: 有关抽象思考带来的疲倦感
 subtitle: 有关抽象思考带来的疲倦感
 date: 2020-02-28 16:00:00 +0000
 author: Boyan Xu
-header-img: ''
+header-img: img/interpret-language-of-math.jpeg
 catalog: false
 tags:
 - meditation
