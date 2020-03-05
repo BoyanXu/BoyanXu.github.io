@@ -4,7 +4,7 @@ title: 'Emacs: Make Latex Great Again'
 subtitle: "(IN-PROGRESS)"
 date: 2020-02-25 16:00:00 +0000
 author: Boyan Xu
-header-img: ''
+header-img: 'img/emacs-preview.jpg'
 catalog: false
 tags:
 - meditation
