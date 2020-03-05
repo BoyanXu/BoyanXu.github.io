@@ -1,6 +1,6 @@
 ---
 layout: post
-title: For River (Cover. Jay Jay Fingerstyle)
+title: For River
 subtitle: performed by Boyan
 date: 2020-03-04 16:00:00 +0000
 author: Boyan
