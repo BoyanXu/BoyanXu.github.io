@@ -15,6 +15,3 @@ Youtube:
 
 {% include youtubePlayer.html id="rDQKYGcLS6E" %}
 
-Bilibili:
-
-<iframe src="//player.bilibili.com/player.html?aid=88426802&cid=151057474&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
