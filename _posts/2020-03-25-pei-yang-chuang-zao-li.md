@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 培养创造力
-subtitle: Approch to Creativity
+subtitle: Approach to Creativity
 date: 2020-03-25 16:00:00 +0000
 author: Boyan
 header-img: "img/post-bg-creativity.jpg"
