@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 完全使用计算机学习英语
+title: Interpreting the Language of Math
 subtitle: Interpreting the Language of Math
 date: 2018-09-14
 author: Boyan
