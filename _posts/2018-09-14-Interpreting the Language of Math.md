@@ -16,7 +16,7 @@ Until recently, I realize this terrible habit, fostered under mistaken guidance 
 
 I found such harmful interpretion of the language of math leads to a slaggish, opaque thinking pattern for me. As the function that map the space of linguistic abstraction to the space of mathematical abstraction itself is impossible to explicitly define, the result of my interpretation through a flawed mapping is unpredictable. The status of my interpretation for certain description is same as the status of Schrödinger's cat, both sensical and nonsensical, so that rough and unreliable to use as brick to construct greater abstractions.
 
-Interpreting the langauge of math in a mathematical way is also difficult to articulate with the flawed mapping mentioned. So maybe instead of a rational explanation, a perceptual one makes more sense.
+Interpreting the langauge of math in a  instead of a rational explanation, a perceptual one makes more sense.
 
 Meditation on the interpretation of math by computer, applied to solve real mathematical problems, might be a good start.
 
