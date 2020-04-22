@@ -11,7 +11,7 @@ tags:
 - meditation
 ---
 
-- To learn math means is to learn an **axiomatic system**
+- To learn math means to learn an **axiomatic system**
 
     → A **Math Book** introduce an axiomatic system
 
