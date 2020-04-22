@@ -34,8 +34,8 @@ tags:
 
     → Why should I take notes for a math book?
 
-    - Shorten the time to spend each time to construct a language system assisting thinking over problems that involves the axiomatic system presented in the book (construct your interpretation from your previous interpretation, sounds sweet right?)
-    - Shorten the time to spend each time to **debug** interpretation over modules
+    - Shorten the time to spend each time on constructing a language system assisting thinking over problems which involves the axiomatic system presented in the book (construct your interpretation from your previous interpretation, sounds sweet right?)
+    - Shorten the time to spend each time on **debugging** errorneous/inaccurate interpretation over modules
 
     → Why I should do Exercise after reading?
 
