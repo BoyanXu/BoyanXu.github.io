@@ -32,7 +32,7 @@ tags:
     - A universally communicable language is necessary for a lot of purpose (like: education, communication, collaboration..)
     - A classic book, most of the time, is a nearly bug-free interpretation over an axiomatic system after decades of debugging
 
-    → Why should I take notes for math book?
+    → Why should I take notes for a math book?
 
     - Shorten the time to spend each time to construct a language system assisting thinking over problems that involves the axiomatic system presented in the book (construct your interpretation from your previous interpretation, sounds sweet right?)
     - Shorten the time to spend each time to **debug** interpretation over modules
