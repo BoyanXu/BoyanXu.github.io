@@ -40,7 +40,7 @@ tags:
     → Why should I do exercise after reading?
 
     - **Test** the validity of your interpretation over an axiomatic system
-    - **Debug** the cause of failure at attempts from your interpretation
+    - **Debug** the cause of failure at attempts within your interpretation
 
     → Why the order of importance: Take Notes > Doing Exercise ?
 
