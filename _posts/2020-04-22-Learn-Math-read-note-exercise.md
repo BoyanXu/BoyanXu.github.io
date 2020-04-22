@@ -44,6 +44,6 @@ tags:
 
     → Why the order of importance: Take Notes > Doing Exercise ?
 
-    - Exercises are problems testing your interpretation over slice(s) of module(s) of an axiomatic system ( that is, your language, instead of universal language; otherwise reliance on books to solve problems will be universal...)→ Good performance indicates **ONLY** good interpretation over slice(s) of module(s), **NOT** good interpretation over the module(s) beneath as a whole ( Sure, as exercises →∞, such indication →∞ ...)
+    - Exercises are problems testing your interpretation over slice(s) of module(s) of an axiomatic system ( that is, your language, instead of universal language; otherwise reliance on books to solve problems will be something universal...)→ Good performance indicates **ONLY** good interpretation over slice(s) of module(s), **NOT** good interpretation over the module(s) beneath as a whole ( Sure, as exercises →∞, such indication →∞ ...)
     - Bad interpretation over slice(s) revealed by failure over an exercise, always implies bad interpretation over the whole module beneath **OR** its pre-req modules → such bad interpretation cannot be fixed independently **AND** only fixable systematically ( **MUST** reconstruct the whole interpretation over that module → Require heavy reading on itself and pre-reqs to debug the bad interpretation)
     - Final exams always presents problems to test your overall interpretation over an axiomatic system, **NOT** independent modules  → buggy but systematic interpretation > bug-free but fragmented interpretation
