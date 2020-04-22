@@ -37,7 +37,7 @@ tags:
     - Shorten the time to spend each time on constructing a language system assisting thinking over problems which involves the axiomatic system presented in the book (construct your interpretation from your previous interpretation, sounds sweet right?)
     - Shorten the time to spend each time on **debugging** errorneous/inaccurate interpretation over modules
 
-    → Why I should do Exercise after reading?
+    → Why should I do exercise after reading?
 
     - **Test** the validity of your interpretation over an axiomatic system
     - **Debug** the cause of failure from your interpretation
