@@ -21,7 +21,7 @@ tags:
     - Read an axiomatic system = Learn the universal language, used to communicate
     - [Interpret](http://boyan-nyu.com/2018/09/14/Interpreting-the-Language-of-Math/) an axiomatic system = [Interpret](http://boyan-nyu.com/2018/09/14/Interpreting-the-Language-of-Math/) with your own language, used to think
 
-    → Take notes for a math book = Record your mapping from universal language to your own language over an axiomatic system， that is: *f ( universal language) → own language*
+    → Take notes for a math book = Record your mapping from universal language to your own language over an axiomatic system, that is, *f ( universal language) → your own language*
 
     → Do Exercises after reading = Test and Debug your interpretation over the axiomatic system (your own language)
 
