@@ -13,11 +13,11 @@ tags:
 
 
 - To learn math means to learn an **axiomatic system**
-- A **Math Book** introduce such an axiomatic system
-- Similarly, a **Chapter** within introduce an module of an axiomatic system
+    → A **Math Book** introduce such an axiomatic system
+    → Similarly, a **Chapter** within introduce an module of an axiomatic system
 
     → Read a Math Book = Read + [Interpret](http://boyan-nyu.com/2018/09/14/Interpreting-the-Language-of-Math/) an axiomatic system
-
+    
     - Read an axiomatic system = Learn the universal language, used to communicate
     - [Interpret](http://boyan-nyu.com/2018/09/14/Interpreting-the-Language-of-Math/) an axiomatic system = [Interpret](http://boyan-nyu.com/2018/09/14/Interpreting-the-Language-of-Math/) with your own language, used to think
 
