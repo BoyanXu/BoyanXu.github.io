@@ -22,13 +22,13 @@ tags:
     - Read an axiomatic system = Learn the universal language, used to communicate
     - [Interpret](http://boyan-nyu.com/2018/09/14/Interpreting-the-Language-of-Math/) an axiomatic system = [Interpret](http://boyan-nyu.com/2018/09/14/Interpreting-the-Language-of-Math/) with your own language, used to think
 
-    → Take notes for a math book = Record your mapping from universal language to [your own language](http://boyan-nyu.com/2018/09/14/Interpreting-the-Language-of-Math/) over an axiomatic system, that is, *f ( universal language) → [your own language](http://boyan-nyu.com/2018/09/14/Interpreting-the-Language-of-Math/)*
+    → Take notes for a math book = Record your mapping from the universal language to [your own language](http://boyan-nyu.com/2018/09/14/Interpreting-the-Language-of-Math/) over an axiomatic system, that is, *f ( universal language) → [your own language](http://boyan-nyu.com/2018/09/14/Interpreting-the-Language-of-Math/)*
 
     → Do Exercises after reading = Test and Debug your interpretation over the axiomatic system (your own language)
 
     → Why should I read math books to study math?
 
-    - Develop your own language from universal language, **NOT** from others' language (like: lectures presented by a professor, or notes borrowed from an alumni) ← people make mistakes, you'll inherit their BUGs too!  **AND**  their language is ALWAYS simplified for expression, **NOT** for interpretation!
+    - It's better to develop your own language from the universal language, **NOT** from others' language (like: lectures presented by a professor, or notes borrowed from an alumni) ← people make mistakes, you'll inherit their BUGs too!  **AND**  their language is ALWAYS simplified for expression, **NOT** for interpretation!
     - A universally communicable language is necessary for a lot of purpose (like: education, communication, collaboration..)
     - A classic book, most of the time, is nearly a bug-free interpretation over an axiomatic system after decades of debugging
 
