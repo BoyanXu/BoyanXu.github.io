@@ -12,7 +12,7 @@ tags:
 ---
 
 
-- A **Math Book** introduce an axiomatic system
+- To learn math means to learn an axiomatic system, a **Math Book** introduce such an axiomatic system
 
     Similarly, a **Chapter** within introduce an module of an axiomatic system
 
