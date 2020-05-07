@@ -30,7 +30,8 @@ tags:
 
     - It's better to develop your own language out of the universal language for the first time, **NOT** of others' language (like: lectures presented by a professor, or notes borrowed from an alumni) ← people make mistakes, you'll inherit their BUGs too!  **AND**  their language is ALWAYS simplified for expression, **NOT** for interpretation!
     - A universally communicable language system is still necessary for a lot of purpose (like: education, communication, collaboration..)
-    - A classic book, most of the time, is a nearly bug-free system of interpretation over an axiomatic system after decades of debugging
+    - A classic book, most of the time, is a nearly bug-free system of interpret
+    ation over an axiomatic system after decades of debugging
 
     → Why should I take notes for a math book?
 
