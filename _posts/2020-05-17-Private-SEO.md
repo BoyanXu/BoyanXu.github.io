@@ -14,19 +14,19 @@ tags:
 
 - newbie ← successful = friendly plain English
 - insider ←  successful = professional analysis
-- ⇒ Impossible to make a public search engine(Google, Bing) "successful" for all users' request
+- ⇒ It's impossible to make a public search engine(Google, Bing) "successful" for all users' requests
 
 ## Private SEO - Private Search Engine Optimization
 
-- [Public SEO is done by google](https://www.google.com/search/howsearchworks/algorithms/) → general optimizations, like query rephrase, PageRank, Spam filter, Context-based customization
+- [Public SEO is done by google](https://www.google.com/search/howsearchworks/algorithms/) → optimizations like general optimizations, like query rephrase, PageRank, Spam filter, Context-based customization
 - Private SEO should be done by yourself
-    - Amplify "golds" → maintain a curated list for different keywords (domains, more accurately)
-    - Block "shits" → maintain a curated blacklist ("black-dictionary", more accurately) for different keywords (domains, more accurately)
+    1. Amplify "golds" → maintain a curated list for different keywords (domains, more accurately)
+    2. Block "shits" → maintain a curated blacklist ("black-dictionary", more accurately) for different keywords (domains, more accurately)
 
 ## Private SEO in Practice
 
-- Amplify "golds"→ [search tricks](https://www.bespoke-digital.co.uk/guides/site-colon/), append golden keywords (like "Learn Python Hacker News," "Metric Space Wolfram Alpha")
-- Block "shits" →  blocker as [chrome extensions](https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe)
+1. Amplify "golds"→ [search tricks](https://www.bespoke-digital.co.uk/guides/site-colon/), append golden keywords (like "Learn Python Hacker News," "Metric Space Wolfram Alpha")
+2. Block "shits" →  blocker as [chrome extensions](https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe)
 
 ## From Private to Public - share your lists
 
