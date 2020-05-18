@@ -10,7 +10,7 @@ tags:
 - meditation
 ---
 
-## "Successful" search - means differently for different people
+## "Successful" search - means differently for everyone
 
 - newbie ← successful = friendly plain English
 - insider ←  successful = professional analysis
