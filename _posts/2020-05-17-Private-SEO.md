@@ -10,12 +10,11 @@ tags:
 - meditation
 ---
 
-## "Successful" search - has different definition for diverse people
+## "Successful" search - means differently for different people
 
 - newbie ← successful = friendly plain English
 - insider ←  successful = professional analysis
-
-⇒ Impossible to make a public search engine(Google, Bing) "successful" for all users' request
+- ⇒ Impossible to make a public search engine(Google, Bing) "successful" for all users' request
 
 ## Private SEO - Private Search Engine Optimization
 
@@ -29,7 +28,7 @@ tags:
 - Amplify "golds"→ [search tricks](https://www.bespoke-digital.co.uk/guides/site-colon/), append golden keywords (like "Learn Python Hacker News," "Metric Space Wolfram Alpha")
 - Block "shits" →  blocker as [chrome extensions](https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe)
 
-## Turn Private SEO to Public SEO - share your curated list & blacklist
+## From Private to Public - share your lists
 
 - Everyone is enlightening to everyone - you can always both benefit from others' SEO practice and be beneficial for others' SEO
 - People's taste would be reflected in their SEO - a good taste indicates possibly good SEO practice
