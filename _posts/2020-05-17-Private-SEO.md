@@ -12,8 +12,8 @@ tags:
 
 ## "Successful" search - means differently for everyone
 
-- newbie ← successful = friendly plain English
-- insider ←  successful = professional analysis
+- For newbie ← successful = friendly plain English
+- For insider ←  successful = professional analysis
 - ⇒ It's impossible to make a public search engine(Google, Bing) "successful" for all users' requests
 
 ## Private SEO - Private Search Engine Optimization
